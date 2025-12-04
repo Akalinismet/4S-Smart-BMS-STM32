@@ -2,7 +2,7 @@
 
 This repository contains the hardware design files (Altium Designer) and documentation for a custom **Smart BMS** designed for 4S Li-ion battery packs. The system features a hybrid architecture using **STM32G4** for critical protection logic and **ESP32** for wireless telemetry.
 
-![BMS 3D View](BMS_Board_3D.jpg)
+![BMS 3D View](BMS_Board_3D.png)
 
 ## 📖 Project Overview
 
